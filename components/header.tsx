@@ -23,7 +23,7 @@ const Header = () => {
             smooth={true}
             className='text-md rounded-full bg-blue px-6 py-2 font-medium text-white transition-all hover:bg-blue/80'
           >
-            Hire me
+            Support her
           </Link>
         </div>
         {/* mobile nav */}
