@@ -11,7 +11,7 @@ const Header = () => {
       <div className='container mx-auto flex items-center justify-between'>
         {/* logo */}
         <Link to='/' spy={true} smooth={true} className='cursor-pointer'>
-          <Image src='/logo.svg' height={54.53} width={41.35} alt='logo' />
+          <Image src='/logo.jpeg' height={54.53} width={41.35} alt='logo' />
         </Link>
 
         {/* disktop nav */}

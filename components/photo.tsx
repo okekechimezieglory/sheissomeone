@@ -24,7 +24,7 @@ const Photo = () => {
           className='absolute z-40'
         >
           <Image
-            src='/hero/profile.png'
+            src='/hero/profile.jpeg'
             height={580}
             width={580}
             alt='profile'

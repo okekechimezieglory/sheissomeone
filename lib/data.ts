@@ -1,7 +1,7 @@
 export const projectsData = [
     {
       id: 1,
-      image: '/projects/01.png',
+      image: '/projects/01.jpg',
       category: 'Widows',
       title: 'Items donation',
       description:
@@ -9,7 +9,7 @@ export const projectsData = [
     },
     {
       id: 2,
-      image: '/projects/02.png',
+      image: '/projects/03.avif',
       category: 'Single mothers',
       title: ' Business startup',
       description:
@@ -17,7 +17,7 @@ export const projectsData = [
     },
     {
       id: 3,
-      image: '/projects/03.png',
+      image: '/projects/03.jpg',
       category: 'Sex workers',
       title: ' Skill and Support',
       description:
