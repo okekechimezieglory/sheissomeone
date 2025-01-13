@@ -19,9 +19,9 @@ const Services = () => {
               What We do?
             </h1>
             <p>
-              Contrary to popular belief, Lorem Ipsum is not simply random text.
-              It has roots in a piece of classical Latin literature from 45 BC,
-              making it over 2000 years old.
+              Sheissomeone is a social donation platform, with a vision to take out hook-up girls out of the street and give thama meaningful life.
+              It is also involved with giving them a skill, supporting single mothers and widows,
+              with gift items, acquiring a skill, setting up a business.
             </p>
             <div className='flex justify-between space-x-4 py-8'>
               <div className='flex flex-col items-center justify-center'>

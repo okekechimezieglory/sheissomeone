@@ -31,7 +31,7 @@ import {
   
       const payload: ActionGetResponse = {
         type: "action",
-        title: "Donate Native SOL",
+        title: "Donate Native SOL to Sheissomeone",
         icon: new URL("/logo.jpeg", requestUrl.origin).toString(),
         description: "Donate SOL to Sheissomeone Solana wallet",
         label: "Transfer", // this value will be ignored since `links.actions` exists

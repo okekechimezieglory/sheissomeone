@@ -5,7 +5,7 @@ export const projectsData = [
       category: 'Widows',
       title: 'Items donation',
       description:
-        'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested'
+        'We are involved with donating gift items to aged widows, recently we gave out some food items to widows from ozom community during the Christmas celebration.'
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ export const projectsData = [
       category: 'Single mothers',
       title: ' Business startup',
       description:
-        'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested'
+        'Sheissomeone is out to getting single mothers to strat up a business of their own and giving them every resources, knowledge wise and skill necessary for them to thrive.'
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ export const projectsData = [
       category: 'Sex workers',
       title: ' Skill and Support',
       description:
-        'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested'
+        'Our skill acquisition program cuts across modern era and in-demand industry top skills and we also support our beneficiaries. '
     }
   ]
   

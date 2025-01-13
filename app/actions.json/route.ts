@@ -5,6 +5,9 @@ export const GET = async () => {
       {
         pathPattern: "/donate",
         apiPath: "/api/actions/transfer-sol",
+      },{
+        pathPattern: "/scan",
+        apiPath: "/api/actions/qrcode",
       },
     ],
   };

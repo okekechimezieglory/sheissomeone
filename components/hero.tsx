@@ -34,6 +34,17 @@ const Hero = () => {
                   <Download className='size-5' />
                 </Link>
               </div>
+
+              <div className='flex gap-x-2'>
+                <Link
+                  href='/api/actions/transfer-sol'
+                  target='_blank'
+                  className='flex items-center space-x-2 rounded-full border-2 border-blue px-6 py-3 font-medium uppercase text-blue transition-all hover:bg-blue/80 hover:text-lighted'
+                >
+                  <span className='text-sm'>Support</span>
+                </Link>
+              </div>
+
               <div className='flex py-4 xl:py-0'>
                 <Social />
               </div>

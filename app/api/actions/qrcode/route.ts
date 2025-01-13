@@ -42,7 +42,7 @@ async function post(
     // Build Transaction
     const ix = SystemProgram.transfer({
       fromPubkey: sender,
-      toPubkey: new PublicKey("APaynxjiBJBrEX5rqYBTbmSFN4NhPg6TKzkTmhG7URoX"),
+      toPubkey: new PublicKey("2nv4Y6SxRYkESe6pkW5abKWytkPuJiZry5t6RDe7jfGb"),
       lamports: 133700000
     })
 
@@ -50,6 +50,8 @@ async function post(
     transaction.add(ix);
 
     const connection = new Connection("https://api.devnet.solana.com")
+    //const connection = new Connection("https://rpc-devnet.helius.xyz/?api-key=<YOUR_HELIUS_API_KEY>"); // heliux RPC
+
     const bh = await connection.getLatestBlockhash();
     transaction.recentBlockhash = bh.blockhash;
     transaction.feePayer = merchant.publicKey; 
